@@ -1,0 +1,6 @@
+model,category,range_nm,seats,cruise_speed,hourly_cost,source_reference
+Gulfstream G650,business jet,7000,14,516,9500,https://www.gulfstream.com/en/aircraft/gulfstream-g650/
+Bombardier Global 7500,business jet,7700,19,516,10500,https://bombardier.com/en/aircraft/global-7500
+Cessna Citation XLS+,business jet,2100,9,441,4300,https://cessna.txtav.com/en/citation/xls-gen2
+Pilatus PC-24,corporate turboprop,2000,8,440,3200,https://www.pilatus-aircraft.com/en/fly/pc-24
+Leonardo AW139,private helicopter,573,12,165,5200,https://helicopters.leonardo.com/en/products/aw139
